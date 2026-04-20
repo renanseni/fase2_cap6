@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "tipo": "mecanica",
+        "hectares": 500,
+        "produtividade": 100,
+        "perda_percentual": 5.0
+    },
+    {
+        "id": 2,
+        "tipo": "manual",
+        "hectares": 600,
+        "produtividade": 200,
+        "perda_percentual": 15.0
+    },
+    {
+        "id": 3,
+        "tipo": "mecanica",
+        "hectares": 200,
+        "produtividade": 200,
+        "perda_percentual": 20
+    }
+]

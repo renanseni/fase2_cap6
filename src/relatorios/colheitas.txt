@@ -1,0 +1,28 @@
+________________________________________
+ID: 1
+Tipo: Manual
+Hectares: 56.000
+Produtividade: 20 t/ha
+Perda: 12%
+Produção Total: 1.120.000 toneladas
+Perda: 134.400 toneladas
+Produção Final: 985.600 toneladas
+________________________________________
+ID: 2
+Tipo: Mecanica
+Hectares: 220
+Produtividade: 20 t/ha
+Perda: 2%
+Produção Total: 4.400 toneladas
+Perda: 88 toneladas
+Produção Final: 4.312 toneladas
+________________________________________
+ID: 3
+Tipo: Mecanica
+Hectares: 16.000
+Produtividade: 100 t/ha
+Perda: 5%
+Produção Total: 1.600.000 toneladas
+Perda: 80.000 toneladas
+Produção Final: 1.520.000 toneladas
+----------------------------------------
