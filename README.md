@@ -15,13 +15,13 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">rm569255@fiap.com.br - Caike</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">rm570231@fiap.com.br - João Pedro Zavanela Andreu</a> 
 - <a href="https://www.linkedin.com/company/inova-fusca">rm572120@fiap.com.br - Jéssica Paula Miranda Gomes</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">rm573086@fiap.com.br- Rafael Briani Rodrigues da Costa</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">rm573086@fiap.com.br - Rafael Briani Rodrigues da Costa</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Sabrina Otoni</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">André Godoi Chiovato</a>
 
 
 ## 📜 Descrição
